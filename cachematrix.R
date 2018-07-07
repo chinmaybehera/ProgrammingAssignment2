@@ -36,7 +36,7 @@ makeCacheMatrix <- function(x = matrix()) {
 #Otherwise, it calculates the inverse of the data and sets the value of the inverse in
 #the cache via the setinverseerse function.
 
-# Args:
+# Args: 
 #   x: A matrix
 #   ...: Extra arguments
 #
